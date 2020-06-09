@@ -5,20 +5,10 @@
 
 <!-- badges: start -->
 
-[![Travis-CI Build Status] (https://travis-ci.org/A0791298/CourseraCapstone.svg?branch=master)] (https://travis-ci.org/A0791298/CourseraCapstone)
-
-
-
+[![Build
+Status](https://travis-ci.com/A0791298/CourseraCapstone.svg?branch=master)](https://travis-ci.com/A0791298/CourseraCapstone)
 
 <!-- badges: end -->
-
-
-
-
-
-
-
-
 
 The goal of CourseraCapstone is to …
 
