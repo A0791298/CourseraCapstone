@@ -39,7 +39,7 @@ devtools::install_github("A0791298/CourseraCapstone")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(CourseraCapstone)
+#library(CourseraCapstone)
 ## basic example code
 ```
 
