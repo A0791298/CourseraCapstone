@@ -38,6 +38,8 @@ GeomTimeline =
 #' @param show.legend ggplot item
 #' @param inherit.aes ggplot item
 #' @param ... ggplot item
+#' @examples
+#' \dontrun{geom_timeline()}
 #' @export
 
 geom_timeline = function(mapping = NULL, data = NULL, stat = "identity",

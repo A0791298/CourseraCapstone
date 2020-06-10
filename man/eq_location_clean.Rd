@@ -15,3 +15,6 @@ seperate representation of string
 \description{
 eq_location_clean
 }
+\examples{
+eq_location_clean("hello")
+}

@@ -38,3 +38,6 @@ geom timeline label function
 \description{
 geom_timeline_label
 }
+\examples{
+\dontrun{geom_timeline_label()}
+}

@@ -71,6 +71,8 @@ GeomTimelineLabel =
 #' @param inherit.aes ggplot item
 #' @param ... ggplot item
 #' @return geom timeline label function
+#' @examples
+#' \dontrun{geom_timeline_label()}
 #' @export
 
 geom_timeline_label = function(mapping = NULL, data = NULL, stat = "identity",

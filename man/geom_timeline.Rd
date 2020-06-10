@@ -38,3 +38,6 @@ geom timeline function
 \description{
 geom_timeline
 }
+\examples{
+\dontrun{geom_timeline()}
+}

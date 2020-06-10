@@ -5,6 +5,8 @@
 #' @param data data
 #' @param annot_col name of the HTML column
 #' @return A leaflet map with earthquakes and annotations.
+#' @examples
+#' \dontrun{eq_map(eq,"name")}
 #' @export
 
 eq_map <- function(data, annot_col) {
@@ -21,6 +23,8 @@ eq_map <- function(data, annot_col) {
 #' eq_create_label
 #' @param data A data frame containing cleaned NOAA earthquake data
 #' @return HTML label string
+#' @examples
+#' \dontrun{eq_create_label("hello")}
 #' @export
 
 eq_create_label <- function(data) {

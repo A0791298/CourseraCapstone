@@ -6,6 +6,8 @@
 #' @importFrom stringi stri_locate_last
 #' @param v string to clean
 #' @return seperate representation of string
+#' @examples
+#' eq_location_clean("hello")
 #' @export
 eq_location_clean = Vectorize(function(v){
    stringr::str_to_title(
@@ -25,6 +27,8 @@ eq_location_clean = Vectorize(function(v){
 #' @importFrom dplyr mutate
 #' @param data NOAA data frame
 #' @return seperate representation data
+#' @examples
+#' \dontrun{eq_clean_data(data)}
 #' @export
 eq_clean_data = function(data){
  dplyr::mutate(

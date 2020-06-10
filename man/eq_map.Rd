@@ -17,3 +17,6 @@ A leaflet map with earthquakes and annotations.
 \description{
 eq_map
 }
+\examples{
+\dontrun{eq_map(eq,"name")}
+}

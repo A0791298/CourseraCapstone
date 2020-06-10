@@ -15,3 +15,6 @@ HTML label string
 \description{
 eq_create_label
 }
+\examples{
+\dontrun{eq_create_label("hello")}
+}

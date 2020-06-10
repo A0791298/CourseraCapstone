@@ -15,3 +15,6 @@ seperate representation data
 \description{
 eq_clean_data
 }
+\examples{
+\dontrun{eq_clean_data(data)}
+}
