@@ -16,5 +16,5 @@ HTML label string
 eq_create_label
 }
 \examples{
-\dontrun{eq_create_label("hello")}
+eq_create_label("hello")
 }

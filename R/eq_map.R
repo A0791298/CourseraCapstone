@@ -24,7 +24,7 @@ eq_map <- function(data, annot_col) {
 #' @param data A data frame containing cleaned NOAA earthquake data
 #' @return HTML label string
 #' @examples
-#' \dontrun{eq_create_label("hello")}
+#' eq_create_label("hello")
 #' @export
 
 eq_create_label <- function(data) {
